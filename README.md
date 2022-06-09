@@ -22,7 +22,7 @@ Sistem Informasi TAUD SaQu Cahaya Al-Madinah Pontianak (SiQur) telah dirancang d
 
 ### Install SiQur Laravel dari Github ke XAMPP Windows
 
-- Pastikan sudah ada paket web server Xampp atau paket web server sejenis
+- Pastikan sudah ada paket web server Xampp atau paket web server sejenis (php 7)
 - Composer sudah terinstall, cek dengan perintah `composer -V` melalui cmd terminal. Jika belum, Install Composer download di https://getcomposer.org/
 - Koneksi internet untuk proses installasi
 
